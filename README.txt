@@ -1,0 +1,1 @@
+This program generates buy and sell signals for companies based on their previous periods. It works for any period type (day, hour, min, etc.), and bases signals off of the best-performing Exponential Moving Averages for the data provided.
